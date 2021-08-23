@@ -1,0 +1,28 @@
+body {
+  background-image: url("background.jpg");
+}
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+  outline: none;
+}
+h1 {
+  text-align: center;
+  margin: 0px;
+  outline: none;
+  font-family: "League Spartan Bold", arial;
+  font-size: 90px;
+  color: #e16bab;
+}
+h2 {
+  font-family: sanchez;
+  text-align: center;
+  color: white;
+  font-size: 22px;
+}
+hr {
+  color: white;
+  width: 30%;
+}
