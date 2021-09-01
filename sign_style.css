@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Sanchez');
+@import url('http://fonts.cdnfonts.com/css/league-spartan');
+
+
+body{
+    background-color: #3657a9;
+}
+
+.leftpart h1{
+    font-size: 65.7px;
+    font-weight: 700;
+    font-family: 'League Spartan', sans-serif;
+    float: left;
+}
+
+.leftpart p{
+    font-size: 27.3px;
+    float: left;
+    margin-top: -25px;
+}
+
+.leftpart{
+    font-family: 'Sanchez';
+    color: white;
+    text-align: left;
+    float: left;
+	width: 60%;
+	padding: 50px 0;
+}
+
+.sign-form {
+    margin: auto;
+    margin-top: 100px;
+}
+
+.text {
+    font-family: 'League Spartan', sans-serif;
+    background-color: #4458be;
+    border-radius: 20px;
+    color: white;
+    height: 50px;
+    width: 250px;
+    border-width: 0ch;
+    margin: 5px;
+}
+
+::placeholder { 
+    color: #dbe9f4;
+    opacity: 10; /* Firefox */
+    align-content: center;
+    text-align: center;
+    font-family: 'League Spartan', sans-serif;
+  }
+
+.button {
+    /* background-color: #4458be; */
+    border-radius: 20px;
+    /* color: white; */
+    height: 50px;
+    width: 250px;
+    border-width: 0ch;
+    margin: 5px;
+    margin-top: 10px;
+    font-family: 'League Spartan', sans-serif;
+}
+
+.linkto{
+    color: #dbe9f4;
+    font-family: 'League Spartan', sans-serif;
+}
+
+.linktor{
+    color: white;
+    text-decoration: none;
+    font-family: 'League Spartan', sans-serif;
+}
